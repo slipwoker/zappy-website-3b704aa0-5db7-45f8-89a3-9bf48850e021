@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו מסגרות וידאו דיגיטליות אקריליות מעוצבות לבית. טכנולוגיה מתקדמת שהופכת תמונות ווידאו לאמנות חיה על הקיר. עיצוב אלגנטי ומתנה מושלמת.
+
+### מסגרות
+https://example.com/frames
+בחרו מתוך מגוון מסגרות דיגיטליות אקריליות איכותיות. הצגת תמונות ווידאו בטכנולוגיה חדשנית, עיצוב מינימליסטי ואלגנטי שמשדרג כל חלל. משלוח מהיר.
+
+### מדריך מתנות
+https://example.com/gifting
+מחפשים מתנה מקורית שתרגש? המדריך השלם לבחירת מסגרת דיגיטלית אקרילית למתנה. רעיונות למתנות חכמות לחגים, אירועים ואנשים אהובים שיזכרו לנצח.
+
+### צור קשר
+https://example.com/contact
+יש שאלות על המסגרות הדיגיטליות שלנו? צוות Velorine כאן כדי לעזור. ייעוץ אישי, מענה מהיר ושירות מסור. צרו קשר עוד היום ונמצא את הפתרון המושלם עבורכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Velorine
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Velorine
+
+### Category
+https://example.com/category/:slug
+מוצרים - Velorine
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
